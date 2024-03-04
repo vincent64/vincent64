@@ -10,8 +10,11 @@ My main and favorite language is Java, but I also code in C#, C, JavaScript and 
 
 ## Some of my projects
 [Ingeo](https://play.google.com/store/apps/details?id=com.ingeo) (Android app)
+
 [Minecraft Chat History](https://github.com/vincent64/minecraft-chat-history) (Desktop software)
+
 [Developer64](https://developer64.com) (My website!)
+
 ...and more! Check out my website/repositories for other projects.
 
 ## Contact
