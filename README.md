@@ -17,16 +17,16 @@ My favorites programming languages are Java, C++ and Poly, but I also code in C#
 - **📧 Contact**: vincent[at]developer64[dot]com
 
 ## Projects
-### Poly programming language
+### ⌨️ Poly programming language
 A modern object-oriented language focused on making programming more elegant and enjoyable.
 Start programming [here](https://poly-language.dev)!
 
-### Ingeo
+### 📱 Ingeo
 An Android app that gives you deep insights and tools about your current geolocation.
 Perfect for adventurers and travellers!
 Download it [here](https://play.google.com/store/apps/details?id=com.ingeo)!
 
-### Minecraft Chat History
+### 🖥️ Minecraft Chat History
 A cross-platform desktop app which displays your Minecraft chat logs and history.
 Perfect for anyone playing Minecraft!
 Check it out [here](https://github.com/vincent64/minecraft-chat-history)!
